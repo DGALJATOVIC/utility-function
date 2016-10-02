@@ -11,3 +11,8 @@ getRandomElement([1, 2, 3]);
 getRandomNumber(1, 10);
 //=> 4
 ```
+
+```
+getUrlSlugs(My new words);
+//=> 'my-new-words'
+```
