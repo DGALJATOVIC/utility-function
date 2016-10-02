@@ -1,1 +1,1 @@
-alert('Ok 1');
+alert('This is fun!');
